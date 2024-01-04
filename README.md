@@ -18,7 +18,7 @@ This project features a Blob Detection implementation in the Processing programm
 
 ## Links
 
-- GitHub Repository: [View on GitHub](https://github.com/calluxpore/CC3)
+- GitHub Repository: [View on GitHub](https://github.com/calluxpore/DGIF-6037-Creation-and-Computation-Experiment-3-Connected-Systems)
 - Processing Official Website: [Processing](https://processing.org/)
 - Project Context: Educational Project
 
